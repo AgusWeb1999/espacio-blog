@@ -36,6 +36,7 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 # Configuración de colección de posts
 collections:
