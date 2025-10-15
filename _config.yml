@@ -33,6 +33,7 @@ plugins:
 
 # Excluir archivos/directorios del build
 exclude:
+  - vendor
   - README.md
   - Gemfile
   - Gemfile.lock
